@@ -1,20 +1,20 @@
 Objects used:
-   Date
-   String
-   Number
-   Math
+   - Date
+   - String
+   - Number
+   - Math
 
 Methods used:
-   getDate()
-   getMonth()
-   getFullYear()
-   padStart()
-   isNaN()
-   isInteger()
-   toFixed()
-   getElementById()
+   - getDate()
+   - getMonth()
+   - getFullYear()
+   - padStart()
+   - isNaN()
+   - isInteger()
+   - toFixed()
+   - getElementById()
 
-View the Website here: 
+View the Website here: https://julesrh7.github.io/comp484-hw9/
 
 Website preview:
 
