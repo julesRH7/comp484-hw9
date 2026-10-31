@@ -1,11 +1,22 @@
-Your repository must include a `README.md` with all of the following:
+Objects used:
+   Date
+   String
+   Number
+   Math
 
-1. A list of the built-in objects and methods you used
-2. Your **GitHub Pages link**
-3. Path to a screenshot file of the finished webpage
-4. A short reflection of **4-5 sentences** that answers:
-   - What part was easiest?
-   - What part was hardest?
-   - What did you learn about the `Date` object?
-   - What did you learn about the `Number` object?
-   - What did you learn about displaying results in the browser?
+Methods used:
+   getDate()
+   getMonth()
+   getFullYear()
+   padStart()
+   isNaN()
+   isInteger()
+   toFixed()
+   getElementById()
+
+View the Website here: 
+
+Website preview:
+
+Reflection:
+   I knew a lot about number rules in js going into this class, so the easiest part was using simple number methods. For instance, converting and performing operations was easy. The toughest part was displaying anything! I used much more inline html than I thought I would just to have readable text in a list format, and that was just using the naive approach of using line breaks when applicable. I didn't even get to writing CSS to make the display look decent, I struggled with displaying it at all, which did teach me though about the variety of ways of passing js code though; my initial attempt at writing "document.getElementById("").textContent" to pass code with inline html was a lesson learned. I also learned that both the Date and Number objects have far more methods associated with them than I initially thought; ideas like "getFullYear" (instead of "getYear") and "Number.isNaN" never occured to me.
